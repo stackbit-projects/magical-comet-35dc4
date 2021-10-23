@@ -12,7 +12,7 @@ sections:
     type: section_content
     title: About
     content: >-
-13131
+        13131
     actions:
       - label: Contact Me
         url: /contact
