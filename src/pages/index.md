@@ -12,8 +12,7 @@ sections:
     type: section_content
     title: About
     content: >-
-        <img src="https://komarev.com/ghpvc/?username=rodolfod2r2&label=Profile%20views&color=0e75b6&style=flat" alt="rodolfod2r2" />
-        <h3 align="center">A passionate frontend developer from India</h3>
+13131
     actions:
       - label: Contact Me
         url: /contact
