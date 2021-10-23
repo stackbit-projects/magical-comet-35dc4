@@ -12,7 +12,7 @@ sections:
     type: section_content
     title: About
     content: >-
-<h1 align="center">Hi 👋, I'm Rodolfo Gonçalves de Luna Freire</h1>
+        <h1 align="center">Hi 👋, I'm Rodolfo Gonçalves de Luna Freire</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
     actions:
       - label: Contact Me
